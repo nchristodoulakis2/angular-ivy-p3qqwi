@@ -1,3 +1,9 @@
 p {
-  font-family: Lato;
+  font-family: system-ui;
+}
+a {
+  font-family: system-ui;
+}
+a hover {
+  font-family: sans-serif;
 }
