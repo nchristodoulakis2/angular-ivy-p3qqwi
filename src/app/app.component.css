@@ -4,6 +4,6 @@ p {
 a {
   font-family: system-ui;
 }
-a hover {
-  font-family: sans-serif;
+a:hover {
+  color: green;
 }
